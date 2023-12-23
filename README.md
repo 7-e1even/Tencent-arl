@@ -72,7 +72,7 @@ python main.py
 `创建实例&安装docker-compose(默认使用模块1)`->`批量上传arl-worker`->`批量启动arl-worker`
 
 #### ❗:
-- 脚本会下载https://gitee.com/r1ck-f/docker-setup-1.git下内容，为安装docker-compose脚本
+- 脚本会下载 https://gitee.com/r1ck-f/docker-setup-1.git 下内容，为安装docker-compose脚本
 
 ## 🙇‍♂️感谢
 
