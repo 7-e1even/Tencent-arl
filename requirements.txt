@@ -1,0 +1,3 @@
+tencentcloud-sdk-python-cvm
+tencentcloud-sdk-python-vpc
+paramiko~=2.8.1

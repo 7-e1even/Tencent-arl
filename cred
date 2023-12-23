@@ -1,0 +1,6 @@
+{ 
+    "SecretId": "",
+    "SecretKey": "",
+    "Password":"r00t@Tencent",
+    "Description": "Password 是实例主机启动密码，需要包含大小写字母、数字和特殊字符，长度8-30位。默认为 r00t@Tencent , 建议修改，推荐配置公私钥实现免密登录"
+}
