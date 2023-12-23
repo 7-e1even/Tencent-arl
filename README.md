@@ -71,9 +71,12 @@ python main.py
 
 `创建实例&安装docker-compose(默认使用模块1)`->`批量上传arl-worker`->`批量启动arl-worker`
 
-------
+#### ❗:
+- 脚本会下载https://gitee.com/r1ck-f/docker-setup-1.git下内容，为安装docker-compose脚本
 
 ## 🙇‍♂️感谢
+
+docker-compose安装脚本来自:https://github.com/a852203465/docker-setup
 
 代码改自：https://github.com/ProbiusOfficial/Hello_CTF-Shell
 
