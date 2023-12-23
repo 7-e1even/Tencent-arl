@@ -65,7 +65,7 @@ pip install -r requirements.txt
 python main.py
 ```
 
-![image-20231223190507211](.\images\image-20231223190507211.png)
+![image-20231223190507211](images\image-20231223190507211.png)
 
 #### 步骤：
 
